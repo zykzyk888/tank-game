@@ -1,0 +1,5 @@
+{
+  "name": "Neo Tank Command AI",
+  "description": "A modern, AI-enhanced recreation of the classic Tank Battle game. Use Gemini to generate custom battlefields instantly.",
+  "requestFramePermissions": []
+}
